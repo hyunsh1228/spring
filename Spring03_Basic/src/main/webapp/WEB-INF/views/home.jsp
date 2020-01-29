@@ -10,8 +10,10 @@
 <body>
 <h1>인덱스 페이지입니다.</h1>
 <ul>
-	<li><a href="fortune.do">오늘의 운세 보기</a></li>
-	<li><a href="person.do">오늘의 인물 보기</a></li>
+	<li><a href="todo/list.do">할일 목록 보기</a></li>
+	<li><a href="todo/list2.do">할일 목록 보기2</a></li>
+	<li><a href="todo/list3.do">할일 목록 보기3</a></li>
+	<li><a href="users/loginform.do">로그인 하러가기</a></li>
 </ul>
 <h2>공지사항</h2>
 <ul>
